@@ -1,4 +1,11 @@
-//We always have to include the library
+/*
+ * Muscial Lights Controller
+ * Just Barran 2020
+ * project video At
+ * www.youtube.com/c/justbarran
+ * Like Share Subscribe
+ */
+
 #include "LedControl.h"
 
 
